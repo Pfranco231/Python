@@ -1,0 +1,2 @@
+Esta documentacion de python es actualizado hasta la version 3.13.3
+si llega a cambiar de version y cambios notables como metodos nuevos y tal cosa se actualizara el codigo de este documento
